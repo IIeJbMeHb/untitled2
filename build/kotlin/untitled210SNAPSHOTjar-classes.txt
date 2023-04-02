@@ -1,0 +1,1 @@
+/home/adm1n/IdeaProjects/untitled2/build/classes/kotlin/main/MainKt.class:/home/adm1n/IdeaProjects/untitled2/build/classes/kotlin/main/Model.class:/home/adm1n/IdeaProjects/untitled2/build/classes/kotlin/main/Number.class:/home/adm1n/IdeaProjects/untitled2/build/classes/kotlin/main/Phone.class:/home/adm1n/IdeaProjects/untitled2/build/classes/kotlin/main/Weight.class
